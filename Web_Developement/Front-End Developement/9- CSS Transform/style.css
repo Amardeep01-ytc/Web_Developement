@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 100vw;
+    width: 80vh;
+    border: 2px sloid rgb(84, 42, 84);
+}
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
