@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: gray;
+    padding: 45px   ;
+    display: flex;
+}
+.card{
+    background-color:white;
+    width: 194px;
+    border-radius: 9px;
+    padding: 0 0 34px 0 ;
+    margin: 4px;
+}
+.image{
+    padding: 7px;
+}
+
+.image img{
+    border-radius: 8px;
+}
+
+.content{
+    padding: 7px 13px;
+}
+
+.content p{
+    font-size: 12px;
+    color: gray;
+    font-family: 'Poppins', sans-serif;
+}
+
+.capsules{
+    padding: 0 34px 0 13px;
+}
+.capsules span{
+    border: 1px solid gray;
+    padding: 0px 6px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+.button{
+    text-align: center;
+}
+.button button{
+    padding: 7px 9px;
+    border-radius: 8px;
+    background-color: rgb(216, 236,253);
+    color: rgb(14,150,234);
+    font-size: 12px;
+    margin-top :7px;
+    border: none;
+    font-weight: bold ;
+}
