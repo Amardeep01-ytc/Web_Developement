@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(231, 122, 54);
+    padding: 12px;
+}
+.card{
+    background-color: antiquewhite;
+    width: 244px;
+    height: 367px;
+    border-radius: 8px;
+}
+.image{
+    padding: 6px;
+}
+.image img{
+    border-radius: 7px;
+}
+
+.capsules{
+    padding: 0 14px 0 15px;
+}
+.capsules span{
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding: 0 7px;
+    font-size: 12px;
+}
+
+.content{
+    padding: 7px 10px;
+}
+.content p{
+    font-size: 13px;
+    color: gray;
+}
+
+.button{
+    text-align: center;
+}
+.button button{
+    background-color: rgb(215, 243, 250);
+    color: rgb(112, 202, 202);
+    border-radius: 8px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
