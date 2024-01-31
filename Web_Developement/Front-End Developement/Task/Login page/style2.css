@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    margin: 122px;
+    padding: 12px;
+}
+h2{
+    padding: 12px;
+}
+
+input{
+    padding: 8px;
+    margin: 10px;
+}
+button{
+    margin: 18px;
+    width: 72px;
+    height: 22px;
+}
