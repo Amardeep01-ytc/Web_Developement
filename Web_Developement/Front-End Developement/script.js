@@ -17,3 +17,4 @@ console.log(a.length) //it shows the length of array
 console.log(a.toUpperCase())  //makes string in UpperCase
 console.log(a.toLowerCase())  //makes string in LowerCase
  
+// js practice 
