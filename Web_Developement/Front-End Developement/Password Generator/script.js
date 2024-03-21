@@ -218,3 +218,4 @@ generateBtn.addEventListener('click', () => {
 });
 
 // This is mini project generated in HTML, CSS and JS 
+// when you want to start the prject just Run HTML file in  browser ,in which Both the three files are alredy exists (HTML, CSS, JS file)
