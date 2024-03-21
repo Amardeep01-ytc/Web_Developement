@@ -216,3 +216,5 @@ generateBtn.addEventListener('click', () => {
     passwordDisplay.value = password;
     calcStrength();
 });
+
+// This is mini project generated in HTML, CSS and JS 
