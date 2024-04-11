@@ -22,3 +22,4 @@ console.log(a.replace("Java", "Type")) //replaces the character
 console.log(a.concat(" Tutorial")) //can add into strings 
 
 
+//Js Strings in one file
